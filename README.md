@@ -1,0 +1,1 @@
+You are operating a small business from your home and must create an inventory of your network devices. This will help you determine which ones contain sensitive information that require extra protection. Then, you’ll list important characteristics of each device such as its owner, location, and type.
